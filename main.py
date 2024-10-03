@@ -6,6 +6,7 @@ def tampilkan_menu():
     print("3. Keluar")
     pilihan = int(input("Pilih opsi: "))
     return pilihan
+
 if _name_ == "_main_":
     jadwal_kuliah = JadwalKuliah()
 
