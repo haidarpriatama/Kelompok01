@@ -1,5 +1,5 @@
 class JadwalKuliah:
-    def __init__(self):
+    def _init_(self):
         self.jadwal = {}
 
     def tambah_jadwal(self, hari, mata_kuliah):
